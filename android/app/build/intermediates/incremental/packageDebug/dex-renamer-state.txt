@@ -1,0 +1,4 @@
+#Fri Apr 20 19:19:42 CDT 2018
+base.0=/Users/kane/Documents/smart-home-ios/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/kane/Documents/smart-home-ios/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
